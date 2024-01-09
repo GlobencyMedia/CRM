@@ -1,4 +1,16 @@
 # CRM
+Lead Management
+Document Management
+Task and Appointment Management
+User Management System
+Admission Management
+Institute Commission Tracking System
+Institute Agreement Management
+Multi-Channel Enquiries Management
+Report Management
+Role-based access and IP restrictions
+Comprehensive and Customised Dashboard
+Detailed Document Checklist
 ![image](https://github.com/GlobencyMedia/CRM/assets/140972802/461d4ee6-249c-4bc7-9895-2c0bed57380a)
 Dashboard
 ![image](https://github.com/GlobencyMedia/CRM/assets/140972802/b8fafde2-bc54-4923-8d42-ed3460f58be1)
