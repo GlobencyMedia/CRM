@@ -155,7 +155,7 @@ body.modal-open .chat-window-wrapper {
   position: relative;
 }
 .header-seperation {
-  background-color: #000000;
+  background-color: #22262e;
 }
 .header {
   -webkit-transition: -webkit-transform 0.3s ease, left 0.3s ease, right 0.3s ease;
@@ -167,7 +167,6 @@ body.modal-open .chat-window-wrapper {
   z-index: 999;
   min-height: 60px;
   left: 0;
-  -webkit-backface-visibility: hidden;
 }
 .header .navbar-inner {
   background-image: none !important;
@@ -428,7 +427,7 @@ body.modal-open .chat-window-wrapper {
   padding-top: 14px;
 }
 .menu-title {
-  color: #e8e8e8;
+  color: #808285;
   font-size: 10.5px;
   padding-left: 31px;
   padding-right: 31px;
@@ -438,7 +437,7 @@ body.modal-open .chat-window-wrapper {
   letter-spacing: 0.2px;
 }
 .menu-title a {
-  color: #e8e8e8;
+  color: #808285;
 }
 .menu-title a:hover {
   text-decoration: none;
@@ -448,7 +447,7 @@ body.modal-open .chat-window-wrapper {
   font-weight: normal;
 }
 .page-sidebar {
-  background-color: #E8C785 !important;
+  background-color: #1b1e24 !important;
   height: 100%;
   font-family: 'Open Sans';
   -webkit-backface-visibility: hidden;
@@ -488,7 +487,7 @@ body.modal-open .chat-window-wrapper {
   border: 0px;
 }
 .page-sidebar .page-sidebar-wrapper > ul > li > a {
-  color: #ffffff;
+  color: #8b91a0;
   display: block;
   position: relative;
   margin: 0;
@@ -522,6 +521,7 @@ body.modal-open .chat-window-wrapper {
   border-bottom: 1px solid transparent !important;
 }
 .page-sidebar .page-sidebar-wrapper > ul > li a i {
+  color: #8b91a0;
   width: 20px;
   text-align: center;
   display: inline-block;
@@ -638,7 +638,7 @@ body.modal-open .chat-window-wrapper {
 .page-sidebar.mini {
   width: 50px;
   overflow: visible !important;
-  background-color: #E8C785 !important;
+  background-color: #0aa699 !important;
   height: 100%;
   margin-top: 0;
   position: fixed;
@@ -758,11 +758,11 @@ body.modal-open .chat-window-wrapper {
 .page-sidebar.mini .page-sidebar-wrapper > ul > li.open > a,
 .page-sidebar.mini .page-sidebar-wrapper > ul > li > a:hover,
 .page-sidebar.mini .page-sidebar-wrapper > ul > li:hover > a {
-  background: #E8C785;
+  background: #0b9c8f;
 }
 .page-sidebar.mini .page-sidebar-wrapper > ul > li > a:hover,
 .page-sidebar.mini .page-sidebar-wrapper > ul > li:hover > a {
-  background: #E8C785;
+  background: #0b9c8f;
 }
 .page-sidebar.mini .page-sidebar-wrapper > ul > li.active > a i,
 .page-sidebar .page-sidebar-wrapper > ul > li:hover > a i {
@@ -815,18 +815,18 @@ body.modal-open .chat-window-wrapper {
 }
 .pace .pace-activity {
   top: 72px;
-  border-top-color: #E8C785;
-  border-left-color: #E8C785;
+  border-top-color: #0aa699;
+  border-left-color: #0aa699;
   right: 15px;
   left: auto;
 }
 .pace .pace-progress {
-  background: #000000;
+  background: #0aa699;
   right: auto;
   left: 0;
 }
 .pace .pace-progress-inner {
-  box-shadow: 0 0 10px #000000, 0 0 5px #000000;
+  box-shadow: 0 0 10px #0aa699, 0 0 5px #0aa699;
 }
 .no-top .pace .pace-activity {
   top: 10px;
@@ -1099,13 +1099,13 @@ body.modal-open .chat-window-wrapper {
   margin-right: 12px;
 }
 .chat-messages-header .status.online {
-  background-color: #E8C785;
+  background-color: #0aa699;
 }
 .chat-messages-header .status.busy {
   background-color: #f35958;
 }
 .chat-messages-header .status.away {
-  background-color: #E8C785;
+  background-color: #0aa699;
 }
 .chat-messages-header a > i {
   color: #4c5264;
@@ -1143,11 +1143,11 @@ body.modal-open .chat-window-wrapper {
   border-color: transparent #0d0f12;
 }
 .bubble.sender {
-  background: #E8C785;
+  background: #0ba195;
   color: #ffffff;
 }
 .bubble.sender:after {
-  border-color: transparent #E8C785;
+  border-color: transparent #0ba195;
   border-width: 9px 0 9px 7px;
   right: -7px !important;
   left: auto;
@@ -1836,7 +1836,7 @@ h6.block {
 }
 a {
   text-shadow: none !important;
-  color: #E8C785;
+  color: #0d638f;
   transition: color 0.1s linear 0s, background-color 0.1s linear 0s, opacity 0.1s linear 0s !important;
 }
 a.icon:hover {
@@ -1984,7 +1984,7 @@ blockquote.pull-right small:after {
   color: #b6bfc5;
 }
 .bg-blue {
-  background-color: #E8C785 !important;
+  background-color: #0090d9 !important;
 }
 .bg-red {
   background-color: #f35958 !important;
@@ -1993,7 +1993,7 @@ blockquote.pull-right small:after {
   background-color: #fbb05e !important;
 }
 .bg-green {
-  background-color: #E8C785 !important;
+  background-color: #0aa699 !important;
 }
 .bg-purple {
   color: #735f87 !important;
@@ -2056,7 +2056,7 @@ blockquote.pull-right small:after {
   background-color: #f35958;
 }
 .color-bands.blue {
-  background-color: #E8C785;
+  background-color: #0090d9;
 }
 hr {
   margin: 20px 0;
@@ -2153,7 +2153,7 @@ hr {
   width: auto;
 }
 .well.green {
-  background-color: #E8C785;
+  background-color: #0aa699;
   color: #ffffff;
   border: none;
 }
@@ -2911,10 +2911,6 @@ div.DTTT_print_info p {
 }
 .login-container {
   margin-top: 13%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 .lockscreen-wrapper {
   position: relative;
@@ -5421,11 +5417,10 @@ form legend,
   margin-left: 37px;
 }
 .tiles .tiles-title {
-  font-size: 15.5px;
+  font-size: 10.5px;
   font-family: 'Open Sans';
   letter-spacing: 0.5px;
   font-weight: 600;
-  color: #dcdcdc;
 }
 .tiles .tiles-body {
   padding: 19px 18px 15px 24px;
@@ -5623,7 +5618,7 @@ form legend,
   color: #ffffff;
 }
 .tiles.red {
-  background-color: #525E75;
+  background-color: #f35958;
 }
 .tiles.red .button {
   background: #bf3938;
@@ -7537,7 +7532,7 @@ input[type="checkbox"] {
   padding: 0 0 60px;
 }
 .error-body {
-  background-color: #E8C785  !important;
+  background-color: #e5e9ec !important;
   font-family: 'Open Sans';
   height: 100%;
 }
@@ -8120,19 +8115,4 @@ body.rtl .header {
 body.rtl .footer-widget {
   right: 0;
   left: auto;
-}
-.rounded-0{
-  border-radius: 0 !important;
-}
-.side-user-img{
-  width: 65px;
-  height: 65px;
-  object-fit: cover;
-  object-position: center center;
-}
-
-.panel-body.bg-white{
-  background: #fff !important;
-  border: 1px solid #c2c2c2 !important;
-  border-radius: 0px !important;
 }
