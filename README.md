@@ -1,5 +1,8 @@
 # CRM
 Lead Management
+admin panel
+filer panel
+caller panel
 Document Management
 Task and Appointment Management
 User Management System
